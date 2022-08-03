@@ -1,7 +1,7 @@
 {
   "name": "pagina_thiago",
   "version": "1.0.0",
-  "description": "",
+  "description": "<img src=\"readme.jpg\" alt=\"foto página\">",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +13,15 @@
     "bootstrap-icons": "^1.8.3",
     "jquery": "^3.6.0",
     "popper.js": "^1.16.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilvanaMenezes/Pagina_Thiago.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SilvanaMenezes/Pagina_Thiago/issues"
+  },
+  "homepage": "https://github.com/SilvanaMenezes/Pagina_Thiago#readme"
 }
+
