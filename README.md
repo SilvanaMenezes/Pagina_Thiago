@@ -21,7 +21,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
-## 📱 Usando <a href=>Thiago Eventos e Esportes</a>
+## 📱 Usando Thiago Eventos e Esportes
 
 Para usar a página, siga estas etapas:
 
